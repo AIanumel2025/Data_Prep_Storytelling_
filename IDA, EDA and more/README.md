@@ -43,5 +43,5 @@ Customers therefore lose trust in them, leading to unexpected situations and rec
 
 ## Conclusions
 
-## 🗒️🗒️ Original Dataset obtained from the CFPB official consumer complaint database on their website. Included in repository
+## 🗒️🗒️ Original Dataset obtained from the CFPB official consumer complaint database on their website.
 Feedback, comments, analyses, all welcome!
